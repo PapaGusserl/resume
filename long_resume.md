@@ -1,14 +1,12 @@
-# Владислав Ахтямов
+# Vladislav Akhtyamov | Junior Elixir Developer
 
-## Общая информация
-
-* Дата рождения: 26.10.1995
-* Место рождения: Россия, г.Ульяновск
-* Место проживания: Россия, Республика Татарстан, г. Набережные Челны
+* Birthday: 26.10.1995
+* Location: Russia, Naberezhnye Chelny
 * Email: vladakhtyamov02@gmail.com
 * Telegram: @papa_gusserl
+* Phone: +7(962)558-75-93
 
-## Навыки
+## SKILLS
 
 * elixir/erlang:
 	{ dets/ets, cowboy, phoenix, mnesia, otp, phoenix}
@@ -16,70 +14,67 @@
 * ubuntu
 * bash
 * lua
-* HTML/CSS/JS/JQuery/Ajax(базовые знания)
-* Node.JS(базовые знания)
+* HTML/CSS/JS/JQuery/Ajax(basic)
+* Node.JS(basic)
 * REST API/JSONRPC
 * vim
 * git
 * TDD
 
-## Образование
+## EDUCATION
 
-* (неоконченное), магистр социальной философии, Кафедра социальной философии, Институт социально-философских наук и массовых коммуникаций, Казанский Поволжский Государсвтенный Университет
-* 2017, бакалавр философии и истории философии, Кафедра социальной философии, Институт социально-философских наук и массовых коммуникаций, Казанский Поволжский Государсвтенный Университет
+* (incomplete), Master, Social philosophy, Institute of Social and Philosophical Sciences and Mass Communications, Kazan Federal University
+* 2017, Baccalaureate, Social and Axiological Studies, Institute of Social and Philosophical Sciences and Mass Communications, Kazan Federal University
 
-## Владение языками
+## LANGUAGES
 
-* русский
-* english (intermediate, engineer documentation)
+* russian(native)
+* english(intermediate, engineer documentation)
 
-## Опыт работы
+## PROFESSIONAL EXPERIENCE
 
-* июнь 2018 - по настоящее время, Junior Elixir Developer Tender.Pro
-* сентябрь 2017 - июнь 2018, управляющий сетью кофеен в Наб. Челнах Coffee Cava (2 объекта)
-* апрель 2016 - сентябрь 2017, бариста в сети кофеен Coffee Cava
-* июнь 2015 - апрель 2016, дворник
+### Freelance, March 2018 - June 2018
 
-## Личные профессиональные достижения
+Responsibilities:
 
-* Создание первой версии поискового модуля: дамп в DETS, сборка выборки по расстоянию Джаро, индексация, окончательная скорость выборки из 1_000_000 значений составляла ~ 1,3 c
-* Разработка двух модулей, связанных между собой REST API - один на Elixir и один на Node.JS(в приложении применялись JS библиотеки, которые было необходимо использовать независимо
-  от модуля, в котором использовался Феникс). В итоге связка на представляла собой такую схему
-```
-                         Модуль elixir, выполянющий несколько дополнительных
- Phoenix-сервер --RPC-->     функций, выступал в качестве трансмиссии          ---REST API---> Node.JS
-                         для работы с АПИ приложения, написанного на Node.JS
+* tunning and debugging
+* meetings with Engineering and Product Management Teams
+* deployment
+* code and test new features
 
-```
+Expirience with technologies:
 
-## Профессиональный опыт
-
-* Краткая работа с Riak KV на основе запросов с помощью hackney - представление о работе с Амазон и AWS ключами
-* Работа с distillery и edeliver для деплоя Elixir-приложений
-* Работа с Docker для деплоя приложения на Node.JS
-* Работа внутри erlang-кластера
-* Освоение работы по принципу TDD
-* Освоение работы по принципу API-first
-* Написание документации на Apidoc
+* working with Riak KV via hackney(working with Amazon and AWS keys)
+* deployment with using distillery and edeliver
+* deployment Node.JS-app in Docker-container
+* erlang-cluster
+* TDD(my own initiative)
+* API-first
+* documentation Apidoc(my own initiative)
 * Postman/curl
-* Telegram-bots
-* плотная работа с SQL-запросами
+* SQL
 * CQRS
+* Telegram API
 
-## Прочие личные достижения
+## PROFESSIONAL ACHIEVEMENTS
 
-* Участие в трех конференциях по специальности Философия - три призовых места - три напечатанные статьи
-* Переоборудование кофейной стойки в полноценное кафе в полугосударственном учереждении( проектный дизайн помещения, проектирование системы вентиляции, административные и
-  финансовые вопросы )
+* Created a prototype of searching module with speed of selection from 1_000_000 values - 1,3 s in middle
+* Created a microserveses with connecting via REST API on Elixir and Node.JS. 
+```
+ Phoenix-node --RPC--> Worker-node ---REST API---> Node.JS
+```
 
-## Личные качества
+## PERSONAL ACHIEVEMENTS
 
-* миролюбивый
-* способный к самоорганизации
-* способный к организации людей
+* participation and victories in student filosophical conferences
 
-## Личные стремления
+## PERSONAL QUALITIES
 
-* развитие в профессиональном плане - понимание как работает BEAM VM
-* освоение языка Python
-* развитие в плане творчества - участие и победа в конкурсах любительской фотографии на международных аренах, участие в выставках.
+* peaceable
+* self-organizing
+
+## PERSONAL GOALS
+
+* want to understand how BEAM VM works
+* learn Python
+* want to paricipate and to win in photo contests

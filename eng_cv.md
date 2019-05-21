@@ -33,7 +33,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### Junior Elixir Developer Tender.pro, June 2018 - present
+### Freelance, March 2018 - present
 
 Responsibilities:
 
@@ -44,6 +44,7 @@ Responsibilities:
 
 Expirience with technologies:
 
+* Telegram API
 * working with Riak KV via hackney(working with Amazon and AWS keys)
 * deployment with using distillery and edeliver
 * deployment Node.JS-app in Docker-container
@@ -54,13 +55,6 @@ Expirience with technologies:
 * Postman/curl
 * SQL
 * CQRS
-
-### Freelance, March 2018 - June 2018
-
-Expirience with technologies:
-
-* Telegram API
-
 
 ## PROFESSIONAL ACHIEVEMENTS
 
