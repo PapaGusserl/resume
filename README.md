@@ -11,7 +11,6 @@
 ## Навыки
 
 * elixir/erlang:
-	{ dets/ets, cowboy, phoenix, mnesia, otp, phoenix}
 * PostgreSQL/SQLite3
 * ubuntu
 * bash
@@ -21,7 +20,7 @@
 * vim
 * git
 * TDD
-* distillery и edeliver/Docker/Jenkins
+* Docker/Jenkins
 * микросервисная архитектура
 * TDD
 * API-first
@@ -44,4 +43,4 @@
 * апрель 2018 - по настоящее время, фриланс c постоянным контрагентом(ООО "Справочные системы")
 
 ## Интересы развития
-* RUST, Python, NodeJS, ASP.NET, Vue
+* Erlang/OTP, Устройство БД и СУБД
